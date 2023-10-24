@@ -1,0 +1,213 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    height: 100vh;
+    background-image: url("/midterm/images/Playa.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    padding-top: 50px;
+    text-align: center;
+    color: black;
+}
+.header img{
+    width: 170px;
+    float:left;
+}
+.visitnow-btn{
+    width: 100px;
+    padding: 8px 0;
+    outline: none !important;
+    border-radius: 50px;
+    background: transparent;
+    color:rgb(0, 0, 0);
+    float: bottom;
+}
+.header h1{
+    padding-top: 200px;
+    padding-bottom: 0px;
+    font-size: 55px;
+}
+.header p{
+    margin: 18px 0px;
+}
+p{
+    font-size: 35px;
+    text-align: center;
+    color:rgb(0, 0, 0);
+}
+a:hover {
+    background-color:rgb(255, 255, 255);
+    padding:5px;
+    border: 3px solid rgb(212, 208, 208);
+}
+
+/*feature*/
+body{
+    height: 100vh;
+    background-image: url("/midterm/images/BG.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+h1{
+    text-align: center;
+    padding-bottom: 30px;
+}
+.feature-img img{
+    width: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.feature-details{
+    padding: 20px;
+    text-align: justify;
+}
+.feature-details h2{
+    text-align: center;
+}
+.feature-details p{
+    text-align: center;
+    font-size: 20px;
+}
+.gallery{
+    padding: 50px 0;
+}
+ul {
+    white-space: nowrap;
+}
+  
+ul, li {
+    list-style: none;
+    display: inline;
+}
+.gallery ul li img{
+    border-radius: 15px;
+    cursor: pointer;
+}
+.gallery ul li img:hover{
+    transform: scale(1.1);
+}
+/*resort*/
+.resort{
+    padding:100px 0;
+}
+h1{
+    text-align: center;
+    padding-bottom: 30px;
+}
+.resort-img img{
+    width: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.resort-details{
+    padding: 20px;
+    text-align: justify;
+}
+.resort-details h2{
+    text-align: center;
+}
+.resort-details p{
+    text-align: center;
+    font-size: 20px;
+}
+.resort-gallery{
+    padding: 50px 0;
+}
+.resort-gallery ul {
+    white-space: nowrap;
+}
+  
+.resort-gallery ul, li {
+    list-style: none;
+    display: inline;
+}
+.resort-gallery ul, li img{
+    width: 20%;
+    height:20%;
+    border-radius: 15px;
+    cursor: pointer;
+}
+.resort-gallery ul, li img:hover{
+    transform: scale(1.1);
+}
+p{
+    font-size: 35px;
+    text-align: center;
+    color:rgb(0, 0, 0);
+}
+a:hover {
+    background-color:rgb(255, 255, 255);
+    padding:5px;
+    border: 3px solid rgb(212, 208, 208);
+}
+/*tourist*/
+body{
+    height: 100vh;
+    background-image: url("/midterm/images/BG.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.tourist-img img{
+    width: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.tourist-details h1{
+    text-align: center;
+}
+.tourist-details p{
+    font-size: 20px;
+    text-align: center;
+}
+.tourist2-img img{
+    width: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.tourist2-details h1{
+    text-align: center;
+}
+.tourist2-details p{
+    font-size: 20px;
+    text-align: center;
+}
+.tourist3-img img{
+    width: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.tourist3-details h1{
+    text-align: center;
+}
+.tourist3-details p{
+    font-size: 20px;
+    text-align: center;
+}
+.tourist4-img img{
+    width: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.tourist4-details h1{
+    text-align: center;
+}
+.tourist4-details p{
+    font-size: 20px;
+    text-align: center;
+}
+a:hover {
+    background-color:rgb(255, 255, 255);
+    padding:5px;
+    border: 3px solid rgb(212, 208, 208);
+}
